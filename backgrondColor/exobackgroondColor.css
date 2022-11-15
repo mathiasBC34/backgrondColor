@@ -1,0 +1,16 @@
+#boite{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+#boite2{
+    background-color: blue;
+    width: 200px;
+    height: 75px;
+}
+#boite3{
+    background-color: green;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
